@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+.nav-link{
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav-link hover{
+    color: white;
+    background-color: black ;
+}
+.navbar-marca{
+    font-size: 1.25rem;
+    font-weight: 800;
+    color:black;
+    cursor: pointer;
+    text-decoration: none;
+}
+.main {
+    background: url(./ft2.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.main h3{
+    font-size: 3.2rem;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-top: -19px;
+    
+}
+.main h6{
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    line-height: 1;
+    border-bottom: 3px solid rgb(233, 20, 109);
+    margin-left: 60px;
+    width: 35%;
+}
+.main .bt1{
+    height: 55px;
+    width: 138px;
+    background-color: black;
+    color: pink;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+
+}
+
+.main .bt2{
+    height: 55px;
+    width: 138px;
+    background-color: black;
+    color: pink;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
